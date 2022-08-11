@@ -1,5 +1,5 @@
 # qs-fsi-foam
-## This solver is for the of7 version (updated from of4.0.x), and difference between these two vesions:
+## This solver is v7 (updated from v4.0.x), and difference between two vesions:
 - derivedFvPatchFields/propagatingPressureWave
 - derivedFvPatchFields/tractionDisplacement
 ## Minor modification:
